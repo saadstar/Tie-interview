@@ -1,16 +1,16 @@
- //#  install the app
+ //#  install the app:
  npm install
 
- //# start the app on localhost
+ //# start the app on localhost:
   npm start
 
- //# deploy the app on netlify (live server)
+ //# deploy the app on netlify (live server):
    https://655bf4965df8ab0c5551ea58--bright-lollipop-cecd4e.netlify.app/
 
- //# project on Github
+ //# project on Github:
+    https://github.com/saadstar/Tie-interview
 
-
- //# Instractions (must read)
+ //# Instractions (must read):
     -the project build using react.js 
     -you can see UI build using bootstrap 
     -search feature is workking based on skills 
