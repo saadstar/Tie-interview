@@ -1,0 +1,58 @@
+export const Data = [
+  {
+    id: 1,
+    name: "Saad mohamed ali",
+    skills: "Html",
+    performance: "Good",
+    department:"Markting",
+  },
+  {
+    id: 2,
+    name: "Selim awiki",
+    skills: "Css",
+    performance: "Very Good",
+    department:"Graphics",
+  },
+  {
+    id: 3,
+    name: "Alaa Abdallah",
+    skills: "Js",
+    performance: "approved",
+    department:"Web development",
+  },
+  {
+    id: 4,
+    name: "Elsayed Mohamed ali",
+    department:"Sales",
+    skills: "React.js",
+    performance: "Poor",
+  },
+  {
+    id: 5,
+    name: "Alaa jackson",
+    skills: "Node.js",
+    performance: "Excellence",
+    department:"Production",
+  },
+  {
+    id: 6,
+    name: "Ibrahim afifi khalil",
+    department:"Creating",
+    skills: "Mongoodb",
+    performance: "Poor",
+  },
+  {
+    id: 7,
+    name: "Khalid adel yasin",
+    skills: "Redux.js",
+    performance: "very Good",
+    department:"Markting",
+  },
+  {
+    id: 8,
+    name: "Ali hesham selim",
+    skills: "Mongoodb",
+    performance: "Very Poor",
+    department:"sales",
+  },
+];

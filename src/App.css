@@ -1,0 +1,79 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.app{
+  margin: 20px 9%;
+  padding: 10px;
+ 
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tablet{
+  height: calc(100vh - 180px);
+  border: 1px solid black;
+  width: 100%;
+  border-radius: 30px;
+  padding: 10px;
+  
+}
+.search{
+  width: 300px;
+  margin: 20px 10px;
+}
+.relocate{
+  position: absolute;
+  top: 0;
+  left: 40%;
+  background-color:rgba(88, 87, 87, 0.84);
+  border-radius: 30px;
+  width: 25%;
+}
+.relocate .top{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px 1px 20px 20px;
+}
+.top h2{
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+}
+.top span{
+  font-weight: bold;
+  font-size: 21px;
+  color: red;
+  cursor: pointer;
+}
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.center label{
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(224, 215, 215);
+  margin-bottom: 5px;
+}
+.center input{
+  padding: 10px;
+
+}
+.bottom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
